@@ -89,8 +89,8 @@
             ]
           },
           {
-            "group": "Sample Endpoints",
-            "openapi": "openapi.yaml"
+            "group": "Run Endpoints",
+            "openapi": "run.json"
           }
         ]
       },
@@ -135,6 +135,17 @@
                 "path": "help-center/guides/setup-project"
               }
             ]
+          }
+        ]
+      },
+      {
+        "tab": "Run Docs",
+        "icon": "help-circle",
+        "pages": [
+          {
+            "title": "Engine",
+            "path": "run/engine",
+            "icon": "home"
           }
         ]
       },
